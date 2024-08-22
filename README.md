@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a Software Engineering student at Bahria Unive
   <a href="https://www.linkedin.com/in/zaraejaz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
   </a>
-  <a href="https://zaraejaz.github.io/portfolio" target="_blank">
+  <a href="https://zaraejazportfolio.netlify.app/#projects" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=FFFFFF" alt="Portfolio">
   </a>
 </p>

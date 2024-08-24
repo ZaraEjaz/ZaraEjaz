@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<img src="https://github.com/your-username/your-repo/blob/main/assets/banner.png" alt="Header Image" style="width:100%; height:auto;">
+![Group 1](https://github.com/user-attachments/assets/a5007ae8-a05e-401d-b08f-54d298813f8b)
 
 # Hi there, I'm Zara Ejaz 👋
 

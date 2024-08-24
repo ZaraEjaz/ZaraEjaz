@@ -1,5 +1,6 @@
 
-![image](https://github.com/user-attachments/assets/6e656609-7a05-4ec7-aae3-d83acf54c1a6)
+![Group 1 (1)](https://github.com/user-attachments/assets/7d744eb5-6102-419d-923f-1d596efc63d0)
+
 
 
 # Hi there, I'm Zara Ejaz 👋

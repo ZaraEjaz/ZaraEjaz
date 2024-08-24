@@ -1,5 +1,6 @@
-<!-- Profile Header -->
-![Group 1](https://github.com/user-attachments/assets/a5007ae8-a05e-401d-b08f-54d298813f8b)
+
+![image](https://github.com/user-attachments/assets/6e656609-7a05-4ec7-aae3-d83acf54c1a6)
+
 
 # Hi there, I'm Zara Ejaz 👋
 

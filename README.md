@@ -1,8 +1,3 @@
-
-![Group 1 (1)](https://github.com/user-attachments/assets/7d744eb5-6102-419d-923f-1d596efc63d0)
-
-
-
 # Hi there, I'm Zara Ejaz 👋
 
 Welcome to my GitHub profile! I'm a Software Engineering student at Bahria University with a passion for coding, design, and all things tech.

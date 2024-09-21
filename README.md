@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Software Engineering student at Bahria Unive
 - 🌱 I love exploring new technologies and am always on the lookout for creative ways to solve problems.
 - 🎨 Design is one of my passions. I enjoy working with color schemes and creating visually appealing layouts.
 - 💬 Feel free to ask me about web development, React, books, or anything else tech-related!
-- 📫 Reach me at [zaraejaz102003@gmail.com](mailto:zaraejaz102003@gmail.com) for collaborations or just to say hi!
+- 📫 Reach me at [myemail](mailto:zaraejaz102003@gmail.com) for collaborations or just to say hi!
 
 ## Hobbies
 
@@ -35,5 +35,25 @@ Welcome to my GitHub profile! I'm a Software Engineering student at Bahria Unive
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=FFFFFF" alt="Portfolio">
   </a>
 </p>
+# Cybersecurity Progress Tracker
+
+**Vulnerability Labs Progress**: ![15%](https://progress-bar.dev/15/)
+
+| Level Progress  | Completion | Status |
+|-----------------|------------|--------|
+| **Apprentice**  | 12 / 59    | ![Progress](https://progress-bar.dev/20/) |
+| **Practitioner**| 26 / 171   | ![Progress](https://progress-bar.dev/15/) |
+| **Expert**      | 4 / 39     | ![Progress](https://progress-bar.dev/10/) |
+
+---
+
+### Your Current Level:
+![NEWBIE](https://img.shields.io/badge/Level-Newbie-lightgrey?style=for-the-badge)
+
+**Solve 47 more labs to become an apprentice!**
+
+---
+[View All Vulnerability Labs](#)
+
 
 Thank you for visiting my profile! If you like my work, feel free to star my repositories and follow me for updates. 🚀

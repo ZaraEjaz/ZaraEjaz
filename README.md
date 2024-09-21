@@ -35,25 +35,6 @@ Welcome to my GitHub profile! I'm a Software Engineering student at Bahria Unive
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=FFFFFF" alt="Portfolio">
   </a>
 </p>
-# Cybersecurity Progress Tracker
-
-**Vulnerability Labs Progress**: ![15%](https://progress-bar.dev/15/)
-
-| Level Progress  | Completion | Status |
-|-----------------|------------|--------|
-| **Apprentice**  | 12 / 59    | ![Progress](https://progress-bar.dev/20/) |
-| **Practitioner**| 26 / 171   | ![Progress](https://progress-bar.dev/15/) |
-| **Expert**      | 4 / 39     | ![Progress](https://progress-bar.dev/10/) |
-
----
-
-### Your Current Level:
-![NEWBIE](https://img.shields.io/badge/Level-Newbie-lightgrey?style=for-the-badge)
-
-**Solve 47 more labs to become an apprentice!**
-
----
-[View All Vulnerability Labs](#)
 
 
 Thank you for visiting my profile! If you like my work, feel free to star my repositories and follow me for updates. 🚀

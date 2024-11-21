@@ -28,11 +28,11 @@ Welcome to my GitHub profile! I'm a Software Engineering student at Bahria Unive
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zara-ejaz-431aa2273" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #0077b5; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px; cursor: pointer;">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;">
-      LinkedIn
-    </button>
+  <a href="https://www.linkedin.com/in/zara-ejaz-431aa2273" target="_blank">
+    
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" >
+
+    
   </a>
 
   <a href="https://zaraejazportfolio.netlify.app/#projects" target="_blank">

@@ -8,7 +8,13 @@ Welcome to my GitHub profile! I'm a Software Engineering student at Bahria Unive
 - 🌱 I love exploring new technologies and am always on the lookout for creative ways to solve problems.
 - 🎨 Design is one of my passions. I enjoy working with color schemes and creating visually appealing layouts.
 - 💬 Feel free to ask me about web development, React, books, or anything else tech-related!
-- 📫 Reach me at [myemail](mailto:zaraejaz102003@gmail.com) for collaborations or just to say hi!
+<p>
+  📫 Reach me at 
+  <a href="mailto:zaraejaz102003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-zaraejaz102003%40gmail.com-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  for collaborations or just to say hi!
+</p>
 
 ## Hobbies
 

@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm a Software Engineering student at Bahria Unive
 <p>
   📫 Reach me at 
   <a href="mailto:zaraejaz102003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-zaraejaz102003%40gmail.com-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  for collaborations or just to say hi!
+   for collaborations or just to say hi!
 </p>
 
 ## Hobbies

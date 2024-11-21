@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Software Engineering student at Bahria Unive
 
 ## About Me
 
-- 🔭 I’m currently diving into React projects and enhancing my skills in Python for cybersecurity.
+- 🔭 I’m currently diving into React projects and enhancing my skills in cybersecurity.
 - 🌱 I love exploring new technologies and am always on the lookout for creative ways to solve problems.
 - 🎨 Design is one of my passions. I enjoy working with color schemes and creating visually appealing layouts.
 - 💬 Feel free to ask me about web development, React, books, or anything else tech-related!

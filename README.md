@@ -18,9 +18,6 @@ Welcome to my GitHub profile! I'm a Software Engineering student at Bahria Unive
 
 ## Hobbies
 
-- 📚 **Avid Reader:** I have a soft spot for fantasy and science fiction novels. Recommendations are always welcome!
-- 🍳 **Cooking:** Experimenting with new recipes and cuisines. Currently perfecting my pasta dishes!
-
 ## Skills & Technologies
 
 <p align="center">

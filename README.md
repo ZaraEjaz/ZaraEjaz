@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a Software Engineering student at Bahria Unive
    for collaborations or just to say hi!
 </p>
 
-## Hobbies
+
 
 ## Skills & Technologies
 
